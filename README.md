@@ -1,6 +1,6 @@
 # gdc-client-monitor
 
-## installation
+## Installation
 
 ```
 $ git clone https://github.com/kyamamot/gdc-client-monitor.git
@@ -8,7 +8,7 @@ $ cd gdc-client-monitor/
 $ chmod a+x gdc-client-monitor.sh
 ```
 
-## usage
+## Usage
 Run "gdc-client-monitor.sh" script before running the "gdc-client".
 
 ```
